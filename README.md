@@ -147,4 +147,3 @@ Identidade.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:1A1A1A,50:F39C12,75:F5B041,100:FFFFFF"/>
 
 </div>
-```
