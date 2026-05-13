@@ -87,28 +87,12 @@ Gosto de criar sistemas que não sejam apenas funcionais, mas também:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolonio-web&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolonio-web&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🌠 Objetivo
-
-Construir tecnologias que conectem pessoas, ideias e experiências de forma mais inteligente, interativa e futurista.
-
----
-
-# ⚡ Status
-
-```txt
-SYSTEM STATUS: ONLINE
-Inicializando sistemas...
-Construindo ideias...
-Desenvolvendo o futuro...
-````
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000432,100:3B82F6&height=140&section=footer"/>
