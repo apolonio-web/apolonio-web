@@ -1,40 +1,43 @@
-<h1 align="center"> Apolônio "Apolo"</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:1A1A1A,50:F39C12,75:F5B041,100:FFFFFF&text=FRANCISCO%20%22APOLO%22&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnologia%20%7C%20Sistemas%20Realtime%20%7C%20Experiências%20Imersivas&descAlignY=58"/>
+
+</div>
+
+---
 
 <h3 align="center">
-Criando sistemas, ideias e experiências que parecem ter vindo do futuro
+⚡ Construindo sistemas inteligentes, experiências futuristas e ideias que parecem vivas
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3200&color=F5B041&center=true&vCenter=true&width=1100&lines=Arquitetura+de+Sistemas;Tecnologia+e+Inovação;Experiências+Imersivas;Sistemas+Realtime;Criatividade+e+Performance;Construindo+algo+maior" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1C1C1C,50:F39C12,75:F5B041,100:FFFFFF&height=180&section=header"/>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F5B041&center=true&vCenter=true&width=1000&lines=Arquitetura+de+Sistemas;Tecnologia+e+Inovação;Sistemas+Realtime;Flutter+Developer;Experiências+Imersivas;Criando+o+Futuro"/>
+
+</div>
 
 ---
 
 # 🌌 Sobre Mim
 
-Meu nome é Apolõnio, mas muitos me conhecem como **Apolo**.
+Meu nome é Francisco, mas muitos me conhecem como **Apolo**.
 
-Sou alguém movido por criação, inovação e visão.  
-Não gosto apenas de desenvolver aplicações. Gosto de construir experiências que transmitam sensação, presença e identidade.
+Sou movido por criação, inovação e visão.  
+Não gosto apenas de programar aplicações. Gosto de construir experiências que transmitam presença, identidade e sensação de futuro.
 
-Tenho interesse em tudo que mistura:
-- tecnologia
-- inteligência
-- interação humana
-- design futurista
-- sistemas realtime
-- criatividade
+Tenho uma mente extremamente voltada para:
+- arquitetura de sistemas
+- experiências realtime
+- interfaces inteligentes
+- tecnologia imersiva
+- resolução criativa de problemas
 
-Minha forma de pensar é extremamente voltada para arquitetura e construção de ideias.  
-Antes mesmo de começar um projeto, já imagino:
+Antes mesmo de iniciar um projeto, já imagino:
 - como ele deve funcionar
-- como as pessoas vão sentir aquilo
-- como tudo pode se conectar
-- como transformar algo simples em algo memorável
+- como as pessoas vão interagir
+- como transformar algo comum em algo memorável
 
 ---
 
@@ -43,78 +46,93 @@ Antes mesmo de começar um projeto, já imagino:
 Não gosto de criar apenas "mais um sistema".
 
 Gosto de criar algo que tenha:
-- presença
-- identidade
 - impacto
-- imersão
+- identidade
 - inteligência
+- imersão
+- escalabilidade
 
-Tenho uma mente muito voltada para:
-- resolver problemas
-- liderar ideias
-- organizar estruturas
-- imaginar soluções
-- conectar conceitos
-
-Mesmo quando estou aprendendo algo novo, tento entender não apenas o código, mas a lógica por trás da construção inteira.
+Tenho facilidade em:
+- conectar ideias
+- liderar construções
+- organizar arquiteturas
+- enxergar possibilidades
+- transformar conceitos em projetos reais
 
 ---
 
-# 🛰️ O Que Me Inspira
+# 🚀 Projeto Principal
 
-Me inspiro em pessoas que enxergavam além do presente.  
-Criadores, visionários e construtores de ideias que transformaram tecnologia em experiência.
+## 🚌 Bus Tracking
 
-Gosto da ideia de tecnologia que parece viva.  
-Sistemas que conversam entre si.  
-Interfaces que passam sensação de futuro.  
-Projetos que unem:
-- inteligência
-- design
-- velocidade
-- emoção
-- funcionalidade
+Sistema inteligente de mobilidade escolar desenvolvido em Flutter e Firebase.
+
+### ✨ O projeto envolve:
+- rastreamento realtime
+- geolocalização
+- monitoramento de motoristas
+- integração com mapas
+- sincronização em tempo real
+- arquitetura modular
+- interface futurista
+
+Mais do que um aplicativo, o projeto representa minha visão sobre tecnologia:
+sistemas vivos, conectados e inteligentes.
 
 ---
 
 # 💻 Tecnologias
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,cpp,python,html,css,js,php,mysql,arduino"/>
 
-</p>
+</div>
 
 ---
 
-# 🧠 Características
+# 🛰️ O Que Me Inspira
 
-⚡ Criativo  
-⚡ Visionário  
-⚡ Adaptável  
-⚡ Comunicativo  
-⚡ Estratégico  
-⚡ Persistente  
-⚡ Curioso  
-⚡ Focado em evolução  
+Tecnologia que parece viva.
+
+Sistemas que se conectam em tempo real.  
+Interfaces que transmitem sensação de futuro.  
+Projetos que unem:
+- inteligência
+- performance
+- design
+- experiência
+- inovação
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&bg_color=000000&title_color=F5B041&text_color=FFFFFF&icon_color=F39C12&border_color=F39C12"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&bg_color=000000&title_color=F5B041&text_color=FFFFFF&border_color=F39C12"/>
 
-</p>
+</div>
+
+---
+
+# ⚡ Características
+
+<div align="center">
+
+| Criatividade | Estratégia | Arquitetura | Inovação |
+|---|---|---|---|
+| ⚡ | 🧠 | 🌌 | 🚀 |
+
+</div>
 
 ---
 
 # 🌠 Visão
 
-Quero construir projetos que façam as pessoas sentirem que estão utilizando algo vindo de uma nova geração de tecnologia.
+Quero construir tecnologias que façam as pessoas sentirem que estão utilizando algo vindo de uma nova geração de experiências digitais.
 
 Não apenas sistemas.  
 Experiências.
@@ -123,7 +141,10 @@ Não apenas código.
 Identidade.
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1C1C1C,50:F39C12,75:F5B041,100:FFFFFF&height=160&section=footer"/>
-</p>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:1A1A1A,50:F39C12,75:F5B041,100:FFFFFF"/>
+
+</div>
 ```
