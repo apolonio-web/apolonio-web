@@ -60,13 +60,6 @@ Tenho facilidade em:
 
 </div>
 
-Visão
-
-Quero construir tecnologias que façam as pessoas sentirem que estão utilizando algo vindo de uma nova geração de experiências digitais.
-Não apenas sistemas.  
-Experiências.
-Não apenas código.  
-Identidade.
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:1A1A1A,50:F39C12,75:F5B041,100:FFFFFF"/>
