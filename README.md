@@ -36,10 +36,6 @@ Antes mesmo de iniciar um projeto, já imagino:
 - como as pessoas vão interagir
 - como transformar algo comum em algo memorável
 
----
-
-# ⚡ Mentalidade
-
 Não gosto de criar apenas "mais um sistema".
 
 Gosto de criar algo que tenha:
