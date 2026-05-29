@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:1A1A1A,50:F39C12,75:F5B041,100:FFFFFF&text=Apolônio%20%22APOLO%22&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnologia%20%7C%20Sistemas%20Complexos%20%7C%20Experiências%20Imersivas&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:1A1A1A,75:F5B041,100:FFFFFF&text=Apolônio%20%22APOLO%22&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnologia%20%7C%20Sistemas%20Complexos%20%7C%20Experiências%20Imersivas&descAlignY=58"/>
 
 </div>
 
