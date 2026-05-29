@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F5B041&center=true&vCenter=true&width=1000&lines=Arquitetura+de+Sistemas;Tecnologia+e+Inovação;Sistemas+Online+Developer;Experiências+Imersivas;Criando+o+Futuro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F5B041&center=true&vCenter=true&width=1000&lines=Arquitetura+de+Sistemas;Tecnologia+e+Inovação;Sistemas+Online;Developer;Experiências+Imersivas;Criando+o+Futuro;Java+Developer"/>
 
 </div>
 
@@ -56,7 +56,7 @@ Tenho facilidade em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,cpp,python,html,css,js,php,mysql,arduino"/>
+<img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,git,github,vscode,cpp,python,html,css,js,php,mysql,arduino"/>
 
 </div>
 
