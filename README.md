@@ -56,7 +56,7 @@ Tenho facilidade em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,python,html,css,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,python,html,css,js,mysql,n8n"/>
 
 </div>
 
