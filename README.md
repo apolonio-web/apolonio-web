@@ -25,22 +25,13 @@ Todos os testes que realizo acontecem exclusivamente em ambientes próprios ou c
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="56"/><br><br>
-      <img src="https://img.shields.io/badge/Linux-1E90FF?style=flat-square&logo=linux&logoColor=white"/>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="56"/><br><br>
-      <img src="https://img.shields.io/badge/Docker-0A2540?style=flat-square&logo=docker&logoColor=white"/>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="56"/><br><br>
-      <img src="https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=linux,docker,python&theme=dark"/>
+
+<br><br>
+
+![Linux](https://img.shields.io/badge/Linux-1E90FF?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A2540?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
