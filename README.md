@@ -27,7 +27,7 @@ Todos os testes que realizo acontecem exclusivamente em ambientes próprios ou c
 
 <img src="https://skillicons.dev/icons?i=linux,docker,python&theme=dark"/>
 
-<br><br>
+<br>
 
 ![Linux](https://img.shields.io/badge/Linux-1E90FF?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0A2540?style=flat-square&logo=docker&logoColor=white)
