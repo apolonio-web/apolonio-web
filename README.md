@@ -31,7 +31,7 @@ Todos os testes que realizo acontecem exclusivamente em ambientes próprios ou c
 
 ![Linux](https://img.shields.io/badge/Linux-1E90FF?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0A2540?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white)
+![Python]
 
 </div>
 
