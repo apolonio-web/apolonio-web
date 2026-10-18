@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:0A2540,75:1E90FF,100:000000&text=Apolônio&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=%C3%A7a%20O%20%7C%20Pentest%20%7C%20Linux%20%7C%20%7C%20Python&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:0A2540,75:1E90FF,100:000000&text=Apolônio&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=%C3%A7%20%20%7C%20Pentest%20%7C%20Linux%20%7C%20%7C%20Python&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Segurança+Ofensiva;Pentest+e+Reconhecimento;Laboratórios+com+Docker;Automação+com+Python"/>
 
