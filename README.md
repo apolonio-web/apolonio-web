@@ -13,11 +13,6 @@
 
 <br>
 
-[Sobre](#-sobre-mim) •
-[Stack](#%EF%B8%8F-stack) •
-[Projetos](#-projetos-de-desenvolvimento) •
-[Contato](#-contato)
-
 </div>
 
 ---
