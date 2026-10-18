@@ -31,28 +31,12 @@ Todos os testes que realizo acontecem exclusivamente em ambientes próprios ou c
 
 </div>
 
-## 🧱 Projetos de desenvolvimento
-
-<details>
-<summary><b>Ver projetos</b></summary>
-
-<br>
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **Agro Connect** | Marketplace de produtos orgânicos | HTML, CSS, JS |
-| **CineDDS** | Reserva de ingressos com pagamento via Pix | PHP, MySQL |
-
-</details>
-
----
-
 ## 📫 Contato
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apolonio-web)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apolonio-melo)
+[![GitHub](https://img.shields.io/badge/GitHub-apolonio--web-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apolonio-web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apol%C3%B4nio%20Melo-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apolonio-melo)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fapolonio805@email.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,40:0A2540,75:1E90FF,100:000000"/>
