@@ -6,13 +6,6 @@
 
 <br>
 
-![Pentest](https://img.shields.io/badge/Pentest-1E90FF?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0A2540?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
 </div>
 
 ---
