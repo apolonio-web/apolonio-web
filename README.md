@@ -30,7 +30,6 @@ Todos os testes que realizo acontecem exclusivamente em ambientes próprios ou c
 ![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
----
 
 ## 🧱 Projetos de desenvolvimento
 
