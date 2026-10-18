@@ -1,8 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:1A1A1A,75:F5B041,100:FFFFFF&text=Apolônio%20%22APOLO%22&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Aspirante%20a%20Pentester%20%7C%20Seguran%C3%A7a%20Ofensiva%20%7C%20Desenvolvedor&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:0A2540,75:1E90FF,100:000000&text=Apolônio%20%22APOLO%22&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Aspirante%20a%20Pentester%20%7C%20Seguran%C3%A7a%20Ofensiva%20%7C%20Desenvolvedor&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=F5B041&center=true&vCenter=true&width=1000&lines=Segurança+Ofensiva;Pentest+e+Reconhecimento;Laboratório+Próprio+de+Estudos;Desenvolvedor+que+aprende+quebrando+e+construindo"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Segurança+Ofensiva;Pentest+e+Reconhecimento;Laboratório+Próprio+de+Estudos;Aprendendo+quebrando+e+construindo"/>
+
+<br>
+
+![Foco](https://img.shields.io/badge/Foco-Pentest-1E90FF?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Forma%C3%A7%C3%A3o-0A2540?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Fedora-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
+
+<br>
+
+[Sobre](#-sobre-mim) •
+[Foco](#-foco-atual) •
+[Trilha](#%EF%B8%8F-trilha-de-estudos) •
+[Projetos](#-projetos) •
+[Stack](#-tecnologias) •
+[Contato](#-contato)
 
 </div>
 
@@ -12,22 +27,29 @@
 
 Sou o Apolônio, mas pode me chamar de **Apolo**.
 
-Sou desenvolvedor e estou me especializando em **segurança ofensiva (pentest)**. Meu objetivo é trabalhar como pentester, e por isso estudo de forma prática: monto laboratório, rodo as ferramentas, anoto o que aprendo e documento tudo aqui.
+Sou desenvolvedor e estou me especializando em **segurança ofensiva (pentest)**. Estudo na prática: monto laboratório, rodo as ferramentas, anoto o que aprendo e documento tudo aqui.
 
-Construo sistemas web e automações, o que me ajuda a entender como as aplicações funcionam por dentro, e isso é a base para saber onde elas quebram.
+Construo sistemas web e automações, o que me ajuda a entender como as aplicações funcionam por dentro, base para saber onde elas quebram.
 
 ---
 
 ## 🎯 Foco atual
 
-- 🔍 Reconhecimento e scanning (Nmap, Gobuster)
-- 🧪 Prática em laboratório próprio e em ambientes autorizados
-- 📝 Documentação e relatórios de testes
-- 🛡️ Mitigação: entender o ataque para saber corrigir
+| Área | O que estou estudando |
+|---|---|
+| 🔍 Reconhecimento | Nmap, Gobuster, enumeração |
+| 🧪 Laboratório | Ambientes próprios e autorizados |
+| 📝 Relatórios | Documentação e escrita técnica |
+| 🛡️ Mitigação | Entender o ataque para saber corrigir |
 
 ---
 
 ## 🗺️ Trilha de estudos
+
+<details>
+<summary><b>Ver módulos</b></summary>
+
+<br>
 
 | Módulo | Tema | Status |
 |---|---|---|
@@ -36,7 +58,9 @@ Construo sistemas web e automações, o que me ajuda a entender como as aplicaç
 | 3 | Pós-exploração | ⚪ Planejado |
 | 4 | Mitigação e Relatório | ⚪ Planejado |
 
-> Todos os testes são feitos apenas em ambientes próprios ou com autorização.
+</details>
+
+> ⚠️ Todos os testes são feitos apenas em ambientes próprios ou com autorização.
 
 ---
 
@@ -57,7 +81,18 @@ Construo sistemas web e automações, o que me ajuda a entender como as aplicaç
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,debian,bash,python,js,php,html,css,mysql,postgres,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,debian,bash,python,js,php,html,css,mysql,postgres,docker,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -65,12 +100,12 @@ Construo sistemas web e automações, o que me ajuda a entender como as aplicaç
 
 ## 📫 Contato
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- E-mail: seu@email.com
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:1A1A1A,50:F39C12,75:F5B041,100:FFFFFF"/>
+[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,40:0A2540,75:1E90FF,100:000000"/>
 
 </div>
